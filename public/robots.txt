@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medicord.in/sitemap.xml
+
+Disallow: /admin/
+Disallow: /account/
+Disallow: /api/
+Disallow: /functions/
